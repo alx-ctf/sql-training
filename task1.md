@@ -1,7 +1,10 @@
+# opisanye
 - Таблица: users
 - Поля: id, login, pass
 - Введите запрос к базе данных: 
 
+
+# writeup
 ```sql
 select id, login, pass from users
 ```
